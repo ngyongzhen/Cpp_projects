@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1520438196 source:e:\cpp_projects\bst\main.cpp
+	<iostream>
+	<BinaryTree.h>
+
+1520438217 e:\cpp_projects\bst\include\binarytree.h
+	"vector"
+
