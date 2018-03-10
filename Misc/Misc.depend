@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520708236 source:e:\cpp_projects\misc\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+
