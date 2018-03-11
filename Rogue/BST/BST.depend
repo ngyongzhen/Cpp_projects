@@ -6,3 +6,15 @@
 1520438217 e:\cpp_projects\bst\include\binarytree.h
 	"vector"
 
+1520754669 source:/Users/yongzhen/Documents/cpp/Cpp_projects/Rogue/BST/main.cpp
+	<iostream>
+	<BinaryTree.h>
+
+1520754669 /Users/yongzhen/Documents/cpp/Cpp_projects/Rogue/BST/include/BinaryTree.h
+	"vector"
+
+1520754669 source:/Users/yongzhen/Documents/cpp/Cpp_projects/Rogue/BST/src/BinaryTree.cpp
+	<iostream>
+	<vector>
+	"BinaryTree.h"
+
